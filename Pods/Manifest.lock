@@ -1,0 +1,23 @@
+PODS:
+  - GONMarkupParser (0.7.2):
+    - NSString+Color
+  - hpple (0.2.0)
+  - NSString+Color (1.1.4)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - GONMarkupParser
+  - hpple
+  - YYKit
+
+SPEC CHECKSUMS:
+  GONMarkupParser: fb4052cc4d7af41853552c704755b2bdc95fd205
+  hpple: 3b765f96fc2cd56ad1a49aef6f7be5cb2aa64b57
+  NSString+Color: ea9e33d498d634adf56766c606c9128822094473
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 5c9d3e81aa97e22560538da61f48bfb0ac5115eb
+
+COCOAPODS: 1.0.1
